@@ -4,6 +4,8 @@
 
 ![image](image.jpg)
 
+#### Note: The Wi-Fi and PxMatrix LED libraries must be installed for this program to function.
+
 ## Setting Wi-Fi
 To set the Wi-Fi, change the following lines in `esp32-countdown.ino`.
 
