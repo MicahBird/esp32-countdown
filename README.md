@@ -31,6 +31,14 @@ The default day to countdown to is Christmas Day, to adjust the day, subtrack th
   daysTill = (daysTill - 0);
 ```
 
+## Changing Countdown Message
+By default the message is "Until Day", and to change the message, go to the following code block. Just note that the message cannot be longer than 10 characters or it will not display properly.
+
+```
+  // Change Day
+  daysTill = (daysTill - 0);
+```
+
 ## Turn Display off During Certain Times
 The current time is stored in the 24-Hour Format, and to disable the display, just create an if statement after line 137. For example, this would turn off the display at midnight.
 ```
