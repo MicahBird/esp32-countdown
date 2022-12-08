@@ -132,6 +132,7 @@ void loop()
     display.setCursor(5,7); 
     display.print(timeStr);
     display.setCursor(5,18);
+    // Change Message
     display.print("Until Day");
     
     // If statements to turn off display during night 
