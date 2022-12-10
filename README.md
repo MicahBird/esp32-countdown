@@ -35,8 +35,8 @@ The default day to countdown to is Christmas Day, to adjust the day, subtrack th
 By default the message is "Until Day", and to change the message, go to the following code block. Just note that the message cannot be longer than 10 characters or it will not display properly.
 
 ```
-  // Change Day
-  daysTill = (daysTill - 0);
+    // Change Message
+    display.print("Until Day");
 ```
 
 ## Turn Display off During Certain Times
