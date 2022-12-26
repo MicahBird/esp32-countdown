@@ -24,7 +24,7 @@ const long  gmtOffset_sec = 3600 * -6;
 ```
 
 ## Setting Countdown Day
-The default day to countdown to is Christmas Day, to adjust the day, subtrack the the number of days between the day that you want to countdown to, and chrismas day. Then adjust the following line replacing zero with the desired number.
+The default day to countdown to is Christmas Day, to adjust the day, subtract the number of days between the day that you want to countdown to, and Christmas day. Then adjust the following line replacing zero with the desired number.
 
 ```
   // Change Day
